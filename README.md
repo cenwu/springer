@@ -16,6 +16,14 @@ Recently, regularized variable selection has emerged as a power tool to identify
     install.packages("devtools")
     devtools::install_github("feizhoustat/springer")
 
+
+ - Released versions of spinBayes are available on CRAN , and can be installed within R via
+
+<!-- end list -->
+
+    install.packages("springer")
+
+
 ## Example
 
     #install.packages("devtools")
