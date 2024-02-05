@@ -14,10 +14,10 @@ Recently, regularized variable selection has emerged as a power tool to identify
 <!-- end list -->
 
     install.packages("devtools")
-    devtools::install_github("feizhoustat/springer")
+    devtools::install_github("cenwu/springer")
 
 
- - Released versions of spinBayes are available on CRAN , and can be installed within R via
+ - Released versions of springer are available on CRAN , and can be installed within R via
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@ Recently, regularized variable selection has emerged as a power tool to identify
 ## Example
 
     #install.packages("devtools")
-    #devtools::install_github("feizhoustat/springer")
+    #devtools::install_github("cenwu/springer")
     library(springer)
     data("dat")
     e <- dat$e
