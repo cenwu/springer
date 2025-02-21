@@ -5,6 +5,14 @@
 
 > Sparse Group Variable Selection for Gene-Environment Interactions in the Longitudinal Study
 
+<!-- badges: start -->
+
+[![CRAN](https://www.r-pkg.org/badges/version/springer)](https://cran.r-project.org/package=springer)
+[![CRAN RStudio mirror
+downloads](https://cranlogs.r-pkg.org/badges/grand-total/springer)](https://www.r-pkg.org:443/pkg/springer)
+
+<!-- badges: end -->
+
 Recently, regularized variable selection has emerged as a power tool to identify and dissect gene-environment interactions. Nevertheless, in longitudinal studies with high dimensional genetic factors, regularization methods for G×E interactions have not been systematically developed. In this package, we provide the implementation of sparse group variable selection, based on both the quadratic inference function (QIF) and generalized estimating equation (GEE), to accommodate the bi-level selection for longitudinal G×E studies with high dimensional genomic features. Alternative methods conducting only the group or individual level selection have also been included. The core modules of the package have been developed in C++.
 
 ## How to install
