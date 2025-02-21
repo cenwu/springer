@@ -10,6 +10,8 @@
 [![CRAN](https://www.r-pkg.org/badges/version/springer)](https://cran.r-project.org/package=springer)
 [![CRAN RStudio mirror
 downloads](https://cranlogs.r-pkg.org/badges/grand-total/springer)](https://www.r-pkg.org:443/pkg/springer)
+[![CRAN RStudio mirror
+downloads](https://cranlogs.r-pkg.org/badges/last-month/springer)](https://www.r-pkg.org:443/pkg/springer)
 
 <!-- badges: end -->
 
